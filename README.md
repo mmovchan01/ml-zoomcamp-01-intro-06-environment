@@ -1,3 +1,5 @@
-# ml-zoomcamp-01-intro-06-environment
+# ml-zoomcamp-journey
 
 Hello Word! 
+
+This repository about my education in ml-zoomcamp
